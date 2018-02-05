@@ -12,13 +12,13 @@ var model = {
         },
         {
             clickCount : 0,
-            name : 'Tiger',
+            name : 'Tuffy',
             imgSrc : 'img/4154543904_6e2428c421_z.jpg',
             imgAttribution : 'https://www.flickr.com/photos/xshamx/4154543904'
         },
         {
             clickCount : 0,
-            name : 'Scaredy',
+            name : 'Shooby',
             imgSrc : 'img/22252709_010df3379e_z.jpg',
             imgAttribution : 'https://www.flickr.com/photos/kpjas/22252709'
         },
