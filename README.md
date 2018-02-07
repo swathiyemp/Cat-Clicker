@@ -1,5 +1,5 @@
 # Cat-clicker
-This is a funny application to count the number of clicks when clicked on cute cats.
+This is a funny application that gives the number of counts when clicked on cute cats.
 
 ## Getting Started
 
